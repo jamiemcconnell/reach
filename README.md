@@ -1,4 +1,7 @@
-# reach
+# reach-es5
+
+Forked from the great [Reach](https://github.com/continuationlabs/reach)
+package but es5-ified :( to please Webpack Uglify!
 
 [![Current Version](https://img.shields.io/npm/v/reach.svg)](https://www.npmjs.org/package/reach)
 [![Build Status via Travis CI](https://travis-ci.org/continuationlabs/reach.svg?branch=master)](https://travis-ci.org/continuationlabs/reach)
